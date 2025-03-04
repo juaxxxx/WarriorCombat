@@ -1,0 +1,152 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch WarriorCombat (Debug)",
+			"request": "launch",
+			"program": "D:\\Unreal Projects\\WarriorCombat\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"preLaunchTask": "WarriorCombat Win64 Debug Build",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch WarriorCombat (DebugGame)",
+			"request": "launch",
+			"program": "D:\\Unreal Projects\\WarriorCombat\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"preLaunchTask": "WarriorCombat Win64 DebugGame Build",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch WarriorCombat (Development)",
+			"request": "launch",
+			"program": "D:\\Unreal Projects\\WarriorCombat\\Binaries\\Win64\\UnrealGame.exe",
+			"preLaunchTask": "WarriorCombat Win64 Development Build",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch WarriorCombat (Test)",
+			"request": "launch",
+			"program": "D:\\Unreal Projects\\WarriorCombat\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"preLaunchTask": "WarriorCombat Win64 Test Build",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch WarriorCombat (Shipping)",
+			"request": "launch",
+			"program": "D:\\Unreal Projects\\WarriorCombat\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"preLaunchTask": "WarriorCombat Win64 Shipping Build",
+			"args": [
+			],
+			"cwd": "D:\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch WarriorCombatEditor (Debug)",
+			"request": "launch",
+			"program": "D:\\Epic Games\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"preLaunchTask": "WarriorCombatEditor Win64 Debug Build",
+			"args": [
+				"D:\\Unreal Projects\\WarriorCombat\\WarriorCombat.uproject"
+			],
+			"cwd": "D:\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch WarriorCombatEditor (DebugGame)",
+			"request": "launch",
+			"program": "D:\\Epic Games\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"preLaunchTask": "WarriorCombatEditor Win64 DebugGame Build",
+			"args": [
+				"D:\\Unreal Projects\\WarriorCombat\\WarriorCombat.uproject"
+			],
+			"cwd": "D:\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Launch WarriorCombatEditor (Development)",
+			"request": "launch",
+			"program": "D:\\Epic Games\\UE_5.1\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"preLaunchTask": "WarriorCombatEditor Win64 Development Build",
+			"args": [
+				"D:\\Unreal Projects\\WarriorCombat\\WarriorCombat.uproject"
+			],
+			"cwd": "D:\\Epic Games\\UE_5.1",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "D:\\Epic Games\\UE_5.1\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "D:\\Epic Games\\UE_5.1"
+			}
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "D:\\Epic Games\\UE_5.1\\Engine\\Build\\BatchFiles\\RunUBT.bat",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=D:\\Unreal Projects\\WarriorCombat\\WarriorCombat.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "D:\\Epic Games\\UE_5.1"
+		}
+	]
+}
