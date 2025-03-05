@@ -1,5 +1,21 @@
 [
 	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\AbilitySystem\\WarriorAbilitySystemComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_WarriorCombat\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\AbilitySystem\\WarriorAttributeSet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_WarriorCombat\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
 		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\AnimInstances\\Hero\\WarriorHeroAnimInstance.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
@@ -81,6 +97,22 @@
 	},
 	{
 		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\WarriorGameplayTags.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_WarriorCombat\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Public\\AbilitySystem\\WarriorAbilitySystemComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_WarriorCombat\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Public\\AbilitySystem\\WarriorAttributeSet.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
 			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_WarriorCombat\\WarriorCombat.1.rsp"
