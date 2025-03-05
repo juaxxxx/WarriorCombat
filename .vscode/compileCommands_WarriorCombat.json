@@ -96,7 +96,39 @@
 		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\DataAssets\\StartUpData\\DataAsset_HeroStartUpData.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_WarriorCombat\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\DataAssets\\StartUpData\\DataAsset_StartUpDataBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_WarriorCombat\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
 		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\GameModes\\WarriorBaseGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_WarriorCombat\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\Items\\Weapons\\WarriorHeroWeapon.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_WarriorCombat\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\Items\\Weapons\\WarriorWeaponBase.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
 			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_WarriorCombat\\WarriorCombat.1.rsp"
@@ -208,7 +240,39 @@
 		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Public\\DataAssets\\StartUpData\\DataAsset_HeroStartUpData.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_WarriorCombat\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Public\\DataAssets\\StartUpData\\DataAsset_StartUpDataBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_WarriorCombat\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
 		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Public\\GameModes\\WarriorBaseGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_WarriorCombat\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Public\\Items\\Weapons\\WarriorHeroWeapon.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_WarriorCombat\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Public\\Items\\Weapons\\WarriorWeaponBase.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
 			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_WarriorCombat\\WarriorCombat.1.rsp"
