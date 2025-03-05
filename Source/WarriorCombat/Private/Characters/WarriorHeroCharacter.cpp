@@ -80,7 +80,6 @@ void AWarriorHeroCharacter::Input_Move(const FInputActionValue& InputActionValue
 {
 	FVector2D MovementVector = InputActionValue.Get<FVector2D>();
     FRotator MovementRotation(0.f, Controller->GetControlRotation().Yaw, 0.f);
-    UE_LOG(LogTemp, Warning, TEXT("%f"), Controller->GetControlRotation().Yaw);
     if (MovementVector.Y != 0.f)
     {
         FVector ForwardDirection = MovementRotation.RotateVector(FVector::ForwardVector);
@@ -94,7 +93,7 @@ void AWarriorHeroCharacter::Input_Move(const FInputActionValue& InputActionValue
         AddMovementInput(RightDirection, MovementVector.X);
     }
 
-
+    UE_LOG(LogTemp, Warning, TEXT("Controller Rotation: %s"), *Controller->GetControlRotation().ToString());
 
 }
 
