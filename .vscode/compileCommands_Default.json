@@ -1,5 +1,13 @@
 [
 	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\AbilitySystem\\Abilities\\WarriorGameplayAbility.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
 		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\AbilitySystem\\WarriorAbilitySystemComponent.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
@@ -97,6 +105,14 @@
 	},
 	{
 		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\WarriorGameplayTags.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Public\\AbilitySystem\\Abilities\\WarriorGameplayAbility.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
 			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
