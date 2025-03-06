@@ -52,9 +52,11 @@ void AWarriorHeroCharacter::PossessedBy(AController* NewController)
 
     if (!CharacterStartUpData.IsNull())
 	{
+        UE_LOG(LogTemp, Warning, TEXT("tqtqtqtq"));
 		if (UDataAsset_StartUpDataBase* LoadedData = CharacterStartUpData.LoadSynchronous())
 		{
 			LoadedData->GiveToAbilitySystemComponent(WarriorAbilitySystemComponent);
+            UE_LOG(LogTemp, Warning, TEXT("tqtqtqtqtq"));
 		}
 	}
 }
