@@ -41,7 +41,7 @@ inline void UWarriorInputComponent::BindNativeInputAction(const UDataAsset_Input
 }
 
 template<class UserObject, typename CallbackFunc>
-void BindAbilityInputAction(const UDataAsset_InputConfig* InInputConfig, UserObject* ContextObject, CallbackFunc InputPressedFunc, CallbackFunc InputReleasedFunc)
+inline void UWarriorInputComponent::BindAbilityInputAction(const UDataAsset_InputConfig* InInputConfig, UserObject* ContextObject, CallbackFunc InputPressedFunc, CallbackFunc InputReleasedFunc)
 {
 	checkf(InInputConfig, TEXT("Input config data asset is null, can not proceed with binding"));
 
