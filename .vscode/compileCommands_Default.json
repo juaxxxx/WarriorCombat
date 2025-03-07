@@ -72,7 +72,31 @@
 		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\Components\\Combat\\HeroCombatComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\Components\\Combat\\PawnCombatComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
 		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\Components\\Input\\WarriorInputComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\Components\\PawnExtensionComponentBase.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
 			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
@@ -216,7 +240,31 @@
 		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Public\\Components\\Combat\\HeroCombatComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Public\\Components\\Combat\\PawnCombatComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
 		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Public\\Components\\Input\\WarriorInputComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Public\\Components\\PawnExtensionComponentBase.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
 			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"

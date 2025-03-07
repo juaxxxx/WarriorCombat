@@ -12,6 +12,7 @@
 #include "WarriorGameplayTags.h"
 #include "AbilitySystem/WarriorAbilitySystemComponent.h"
 #include "DataAssets/StartUpData/DataAsset_HeroStartUpData.h"
+#include "Components/Combat/HeroCombatComponent.h"
 
 #include "WarriorDebugHelper.h"
 
@@ -38,6 +39,7 @@ AWarriorHeroCharacter::AWarriorHeroCharacter()
     GetCharacterMovement()->MaxWalkSpeed = 400.f;
     GetCharacterMovement()->BrakingDecelerationWalking = 2000.f;
     
+    HeroCombatComponent = CreateDefaultSubobject<UHeroCombatComponent>(TEXT("HeroCombatComponent"));
 }
 
 
@@ -52,11 +54,9 @@ void AWarriorHeroCharacter::PossessedBy(AController* NewController)
 
     if (!CharacterStartUpData.IsNull())
 	{
-        UE_LOG(LogTemp, Warning, TEXT("tqtqtqtq"));
 		if (UDataAsset_StartUpDataBase* LoadedData = CharacterStartUpData.LoadSynchronous())
 		{
 			LoadedData->GiveToAbilitySystemComponent(WarriorAbilitySystemComponent);
-            UE_LOG(LogTemp, Warning, TEXT("tqtqtqtqtq"));
 		}
 	}
 }

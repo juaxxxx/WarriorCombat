@@ -3,6 +3,7 @@
 
 #include "AbilitySystem/Abilities/WarriorGameplayAbility.h"
 #include "AbilitySystem/WarriorAbilitySystemComponent.h"
+#include "Components/Combat/PawnCombatComponent.h"
 
 void UWarriorGameplayAbility::OnGiveAbility(const FGameplayAbilityActorInfo* ActorInfo, const FGameplayAbilitySpec& Spec)
 {
@@ -10,7 +11,7 @@ void UWarriorGameplayAbility::OnGiveAbility(const FGameplayAbilityActorInfo* Act
 
     if (AbilityActivationPolicy == EWarriorAbilityActivationPolicy::OnGiven)
     {
-        if (ActorInfo && Spec.IsActive())
+        if (ActorInfo && !Spec.IsActive())
         {
             ActorInfo->AbilitySystemComponent->TryActivateAbility(Spec.Handle);
         }
@@ -28,4 +29,9 @@ void UWarriorGameplayAbility::EndAbility(const FGameplayAbilitySpecHandle Handle
             ActorInfo->AbilitySystemComponent->ClearAbility(Handle);
         }
     }
+}
+
+UPawnCombatComponent* UWarriorGameplayAbility::GetPawnCombatComponentFromActorInfo() const
+{
+    return GetAvatarActorFromActorInfo()->FindComponentByClass<UPawnCombatComponent>();
 }
