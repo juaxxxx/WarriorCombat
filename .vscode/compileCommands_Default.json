@@ -1,5 +1,13 @@
 [
 	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\AbilitySystem\\Abilities\\WarriorEnemyGameplayAbility.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
 		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\AbilitySystem\\Abilities\\WarriorGameplayAbility.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
@@ -72,7 +80,23 @@
 		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\Characters\\WarriorEnemyCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
 		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\Characters\\WarriorHeroCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\Components\\Combat\\EnemyCombatComponent.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
 			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
@@ -121,6 +145,14 @@
 	},
 	{
 		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\DataAssets\\Input\\DataAsset_InputConfig.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\DataAssets\\StartUpData\\DataAsset_EnemyStartUpData.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
 			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
@@ -185,6 +217,14 @@
 	},
 	{
 		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Private\\WarriorTypes\\WarriorStructTypes.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Public\\AbilitySystem\\Abilities\\WarriorEnemyGameplayAbility.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
 			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
@@ -264,7 +304,23 @@
 		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Public\\Characters\\WarriorEnemyCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
 		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Public\\Characters\\WarriorHeroCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Public\\Components\\Combat\\EnemyCombatComponent.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
 			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
@@ -313,6 +369,14 @@
 	},
 	{
 		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Public\\DataAssets\\Input\\DataAsset_InputConfig.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
+		],
+		"directory": "D:\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\WarriorCombat\\Source\\WarriorCombat\\Public\\DataAssets\\StartUpData\\DataAsset_EnemyStartUpData.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
 			"@D:\\Unreal Projects\\WarriorCombat\\.vscode\\compileCommands_Default\\WarriorCombat.1.rsp"
